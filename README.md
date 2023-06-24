@@ -2,16 +2,14 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[Español] Uniswap Sniper Bot es una aplicación que te permite monitorizar la red Binance Smart Chain/Ethereum/Polygon en buscar de tokens nuevos con liquidez mayor que la mínima configurada
-
 [English] Uniswap Sniper Bot is an application that allows you to monitor the Binance Smart Chain/Ethereum/Polygon network in search of new tokens with liquidity greater than the minimum configured
 
-## ¿Cómo funciona? / How it works?
+## How it works?
 
 
-## Instalación/Installation
+## Installation
 
-- Requiere/requires [Node.js](https://nodejs.org/) v12+
+- requires [Node.js](https://nodejs.org/) v12+
 
 ```sh
 git clone https://github.com/ninjasolution/uniswap-sniper-bot.git
@@ -26,7 +24,7 @@ Para abrir con el devtool...
 npm star dev
 ```
 
-## Licencia/License
+## License
 
 MIT
 **Uniswap Sniper Bot v1.0.0**

@@ -18,11 +18,6 @@ npm install
 npm start
 ```
 
-Para abrir con el devtool...
-
-```sh
-npm star dev
-```
 
 ## License
 

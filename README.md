@@ -8,8 +8,6 @@
 
 ## ¿Cómo funciona? / How it works?
 
-- [VER VIDEO][yt_channel] 
-- [CHECK VIDEO][yt_channel]
 
 ## Instalación/Installation
 
@@ -36,23 +34,3 @@ MIT
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
   
-
-# Changelog
-Todos los cambios notables de todas las versiones
-
-## [1.0.2] - 02/08/2022
-### Novedades
-- Opción de venta automática y manual agregada
-- Detector de SCAM agregado (BETA: DYOR) ✅
-- Venta automática con take profit por porcentaje ✅
-
-## [1.0.1] - 26/07/2022
-### Novedades
-- Opción de compra automática en el Modo con Token
-- Opción de mostrar sólo Tokens verificados ✅
-- Opción para enviar alertas a Telegram al encontrar Token
-
-### Arreglos
-- Solucionado error: Liquidez no corresponde al Token agregado en Modo con Token
-
-## Versiones para otras blockchain
